@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Noticias de hoy sobre tecnología</string>
+    <!-- Noticias para España (es) no están disponibles, así que se muestran las de argeninta, por ejemplo -->
+    <string name="country_code">ar</string>
+    <string name="latest_news">Últimas noticias</string>
+    <string name="tech_label">Tecnología</string>
+    <string name="sci_label">Cienca</string>
+    <string name="sports_label">Deporte</string>
+    <string name="health_label">Salud</string>
+    <string name="entertainment_label">Entretenimiento</string>
+    <string name="politics_label">Politica</string>
+    <string name="latest_news_about">Últimas noticias sobre </string>
+</resources>
